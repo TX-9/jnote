@@ -1,0 +1,22 @@
+{
+  "name": "jnote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TX-9/jnote.git"
+  },
+  "author": "Jacob Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TX-9/jnote/issues"
+  },
+  "homepage": "https://github.com/TX-9/jnote#readme",
+  "dependencies": {
+    "validator": "^10.11.0"
+  }
+}
