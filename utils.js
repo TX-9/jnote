@@ -7,4 +7,3 @@ const add = function(a, b) {
 }
 
 module.exports = name;
-module.exports = add;
